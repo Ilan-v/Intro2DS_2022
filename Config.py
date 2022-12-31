@@ -1,8 +1,13 @@
 
 #Pathes to the data files
-training_data_path = 'C:/Users/liort/OneDrive/שולחן העבודה/Exercise/data project/ctr_dataset_train.csv'
-test_data_path = 'C:/Users/liort/OneDrive/שולחן העבודה/Exercise/data project/ctr_dataset_test.csv'
-clustering_data_path = 'C:/Users/liort/OneDrive/שולחן העבודה/Exercise/data project/ctr_dataset_train.csv'
+# training_data_path = 'C:/Users/liort/OneDrive/שולחן העבודה/Exercise/data project/ctr_dataset_train.csv'
+# test_data_path = 'C:/Users/liort/OneDrive/שולחן העבודה/Exercise/data project/ctr_dataset_test.csv'
+# clustering_data_path = 'C:/Users/liort/OneDrive/שולחן העבודה/Exercise/data project/ctr_dataset_train.csv'
+
+# Paths to the data files
+training_data_path = 'data/ctr_dataset_train.csv'
+test_data_path = 'data/ctr_dataset_test.csv'
+clustering_data_path = 'data/ctr_dataset_train.csv'
 
 binary_columns = ['clicked',
                     'app_cat_art_and_design',
