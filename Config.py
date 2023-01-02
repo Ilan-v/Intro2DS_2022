@@ -1,12 +1,7 @@
-
-#Pathes to the data files
-# training_data_path = 'C:/Users/liort/OneDrive/שולחן העבודה/Exercise/data project/ctr_dataset_train.csv'
-# test_data_path = 'C:/Users/liort/OneDrive/שולחן העבודה/Exercise/data project/ctr_dataset_test.csv'
-# clustering_data_path = 'C:/Users/liort/OneDrive/שולחן העבודה/Exercise/data project/ctr_dataset_train.csv'
-
 # Paths to the data files
 training_data_path = 'data/ctr_dataset_train.csv'
 test_data_path = 'data/ctr_dataset_test.csv'
+<<<<<<< Updated upstream
 clustering_data_path = 'data/clustering_data.csv'
 
 binary_columns = ['clicked',
@@ -81,3 +76,6 @@ binary_columns = ['clicked',
                     'device_version_9',
                     'device_version_O',    
                 ]
+=======
+clustering_data_path = 'data/ctr_dataset_train.csv'
+>>>>>>> Stashed changes
